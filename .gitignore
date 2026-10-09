@@ -1,0 +1,70 @@
+# Unreal Engine generated directories
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled binaries and debug symbols
+
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.app
+*.dSYM/
+
+# IDE and project files
+
+.idea/
+.vscode/
+*.code-workspace
+
+# Xcode / macOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Unreal local configuration
+
+/Config/*EditorPerProjectUserSettings.ini
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.bak
+*.swp
+*~
+
+# Build output
+
+Build/
+
+# Optional: ignore locally generated solution files
+
+# Uncomment if you don't want IDE project files in Git
+
+# *.sln
